@@ -1,0 +1,250 @@
+{
+  "heading": "Start the Practice Sheet",
+  "topics": [
+    {
+      "heading": "Polygon Exploration Questions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "img":"./assests/images/1.JPG",
+          "question": "They found another ornate tile pattern. Is this pattern a regular polygon?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": 1,
+          "explanation": "A polygon is regular if all of its sides have the same length and all of its angles have the same measure. This shape is not a regular polygon."
+        },
+        {
+          "questionNo": 2,
+          
+          "question": "Finally they come across a decagon-shaped room in the mansion. What is the sum of the interior angles of this 7-sided polygon?",
+          "options": [
+            "950°",
+            "960°",
+            "900°",
+            "940°"
+          ],
+          "answer": 2,
+          "explanation": "Sum of interior angles = (n-2) x 180° = (7 – 2) x 180° = 5 x 180° = 900°."
+        },
+        {
+          "questionNo": 3,
+          "img":"./assests/images/3.JPG",
+          "question": "As the friends explore the dark corridors, they come across a dusty old blueprint. Is the shape drawn on the blueprint a polygon?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": 1,
+          "explanation": "A polygon is a closed figure with straight sides. This figure is not a polygon as it does not have straight sides."
+        },
+        {
+          "questionNo": 4,
+          
+          "question": "Deep within the labyrinthine corridors of the abandoned mansion, the friends stumble upon a perfectly symmetrical room where each interior angle measures 150°. How many sides does this regular polygon-shaped room have?",
+          "options": [
+            "15",
+            "12",
+            "13",
+            "14"
+          ],
+          "answer": 1,
+          "explanation": "Interior angle = 150°. Exterior angle = 180° – 150° = 30°. Number of sides = 360° / 30° = 12."
+        },
+        {
+          "questionNo": 5,
+          "img":"./assests/images/5.JPG",
+          "question": "On examining the blueprint further, they notice its shape. What type of polygon could represent the blueprint of the mansion?",
+          "options": [
+            "Concave polygon",
+            "Convex polygon"
+          ],
+          "answer": 0,
+          "explanation": "It is a simple closed curve and a concave polygon as all the vertices are not pointing outwards."
+        },
+        {
+          "questionNo": 6,
+          "question": "In their exploration of the abandoned mansion, the friends discover a room shaped like a regular polygon with 12 sides. What is the measure of each exterior angle of this polygonal room?",
+          "options": [
+            "60°",
+            "30°",
+            "40°",
+            "50°"
+          ],
+          "answer": 1,
+          "explanation": "Sum of exterior angles of any polygon = 360°. Each exterior angle = 360° ÷ 12 = 30°."
+        },
+        {
+          "questionNo": 7,
+          "img":"./assests/images/7.JPG",
+          "question": "In another room, they find an ornate tile pattern. Is this pattern a regular polygon?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": 0,
+          "explanation": "A polygon is regular if all of its sides have the same length and all of its angles have the same measure. This shape is a regular polygon."
+        },
+        {
+          "questionNo": 8,
+          "question": "The friends uncover a nonagon shape in a hidden room. How many diagonals does this heptagon have?",
+          "options": [
+            "14",
+            "12",
+            "18",
+            "16"
+          ],
+          "answer": 0,
+          "explanation": "Number of diagonals = n(n−3)/2. For a heptagon with 7 sides: Number of diagonals = 7(7−3)/2 = 14."
+        },
+        {
+          "questionNo": 9,
+          "img":"./assests/images/9.JPG",
+          "question": "The friends start mapping out the hidden rooms and secret passageways they find. The overall shape formed by these rooms and passageways is most likely a:",
+          "options": [
+            "Concave polygon",
+            "Convex polygon"
+          ],
+          "answer": 1,
+          "explanation": "Every angle inside the polygon is smaller than a straight line (180 degrees), making it a convex polygon."
+        },
+        {
+          "questionNo": 10,
+          "question": "While exploring the mysterious mansion, the friends discover a hidden room with an exterior angle formed by its corners measuring 60°. What is the number of sides of this regular polygon-shaped room?",
+          "options": [
+            "4",
+            "8",
+            "3",
+            "6"
+          ],
+          "answer": 3,
+          "explanation": "Total measure of all exterior angles = 360°. Measure of each exterior angle = 60°. Therefore, the number of sides = 360° / 60° = 6."
+        },
+        {
+          "questionNo": 11,
+          "question": "The friends try to find the sum of the interior angles of a regular pentagon they discovered in a hidden room. What is the value?",
+          "options": [
+            "1260°",
+            "1080°",
+            "540°",
+            "1040°"
+          ],
+          "answer": 2,
+          "explanation": "Sum of interior angles of a pentagon = (5-2) x 180° = 3 x 180° = 540°."
+        },
+        {
+          "questionNo": 12,
+          "img":"./assests/images/12.JPG",
+          "question": "As they shine their flashlights on a large figure painted on the floor, one friend asks, 'Is this figure a regular polygon?'",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": 0,
+          "explanation": "A polygon is regular if all of its sides have the same length and all of its angles have the same measure. This shape is not a regular polygon as not all of its sides have the same length."
+        },
+        {
+          "questionNo": 13,
+          "img":"./assests/images/13.JPG",
+          "question": "In the heart of the mansion, they discover a convex polygon. How many triangles can be formed by drawing all the diagonals from a single vertex?",
+          "options": [
+            "4",
+            "2",
+            "3",
+            "1"
+          ],
+          "answer": 2,
+          "explanation": "For a convex polygon with n sides, the number of triangles formed by drawing all the diagonals from a single vertex is (n-2). For a polygon with 5 sides, the number of triangles is 3."
+        },
+        {
+          "questionNo": 14,
+          "question": "While exploring the mansion's grand hall, they notice a pentagon pattern on the ceiling. How many diagonals does this pentagon have?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": 3,
+          "explanation": "To find the number of diagonals in a polygon: Number of diagonals = n(n−3)/2. For a pentagon with 5 sides: Number of diagonals = 5(5−3)/2 = 5."
+        },
+        {
+          "questionNo": 15,
+          "img":"./assests/images/15.JPG",
+          "question": "They find another mysterious shape etched into the wall shown below in the figure. What do we call this polygon?",
+          "options": [
+            "Hexagon",
+            "Nonagon",
+            "Pentagon",
+            "Octagon"
+          ],
+          "answer": 2,
+          "explanation": "The given polygon has 5 sides, so it is a pentagon."
+        },
+        {
+          "questionNo": 16,
+          "question": "They examined another convex polygon in the mansion, having thirteen sides. How many triangles are formed in the given figure, by drawing all the diagonals from a single vertex?",
+          "options": [
+            "12",
+            "11",
+            "9",
+            "10"
+          ],
+          "answer": 1,
+          "explanation": "For a convex polygon with n sides, the number of triangles formed by drawing all the diagonals from a single vertex is (n-2). For a polygon with 13 sides, the number of triangles is 11."
+        },
+        {
+          "questionNo": 17,
+          "question": "One of the secret passages leads to a room with ten-sided shapes painted on the ceiling. What is a polygon with ten sides called?",
+          "options": [
+            "Heptagon",
+            "Quadrilateral",
+            "Decagon",
+            "Quadrilateral"
+          ],
+          "answer": 2,
+          "explanation": "A polygon with ten sides is called a decagon."
+        },
+        {
+          "questionNo": 18,
+          "question": "In one of the rooms, they discover a regular octagon pattern on the floor. How many diagonals are in a regular dodecagon?",
+          "options": [
+            "64",
+            "34",
+            "54",
+            "44"
+          ],
+          "answer": 2,
+          "explanation": "To find the number of diagonals in a polygon: Number of diagonals = n(n−3)/2. For a dodecagon with 12 sides: Number of diagonals = 12(12−3)/2 = 54."
+        },
+        {
+          "questionNo": 19,
+          "img":"./assests/images/19.JPG",
+          "question": "The friends stumble upon a strange diagram on the floor as shown below in the figure. What do we call this polygon?",
+          "options": [
+            "Triangle",
+            "Decagon",
+            "Pentagon",
+            "Quadrilateral"
+          ],
+          "answer": 2,
+          "explanation": "The given figure has 5 sides, so it is a pentagon."
+        },
+        {
+          "questionNo": 20,
+          "img":"./assests/images/20.JPG",
+          "question": "In another room, they discover a drawing with 12 sides. Can you name this polygon?",
+          "options": [
+            "Octagon",
+            "Dodecagon",
+            "Nonagon",
+            "Decagon"
+          ],
+          "answer": 1,
+          "explanation": "A polygon with twelve sides is called a dodecagon."
+        }
+      ]
+    }
+  ]
+}
